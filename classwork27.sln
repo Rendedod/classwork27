@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork27.1", "classwork27.1.csproj", "{F10D4E90-0204-4491-A22A-2F3F417EDC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork27.2", "..\WPF27.2\classwork27.2.csproj", "{CBEE07E6-9332-4E80-8E90-54C070F9C164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10D4E90-0204-4491-A22A-2F3F417EDC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10D4E90-0204-4491-A22A-2F3F417EDC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10D4E90-0204-4491-A22A-2F3F417EDC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10D4E90-0204-4491-A22A-2F3F417EDC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEE07E6-9332-4E80-8E90-54C070F9C164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEE07E6-9332-4E80-8E90-54C070F9C164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEE07E6-9332-4E80-8E90-54C070F9C164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEE07E6-9332-4E80-8E90-54C070F9C164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCD14BD-2407-4460-9832-A6636BBCA010}
+	EndGlobalSection
+EndGlobal
